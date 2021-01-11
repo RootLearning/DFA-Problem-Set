@@ -132,5 +132,12 @@ Current state | Symbol read | State to go
  q0 | c,Ɛ | q1(Accept)
  q0 | c | q2 
 q1  | b,c | q4 
-q1  | a | q0     
+q1  | a | q0      
+
+![DFA1](exe1.png)
+![DFA1](exe2.png)  
+![DFA1](exe3.png)  
+![DFA1](exe4.png)  
+![DFA1](exe5.png)  
+![DFA1](exe6.png)
   
