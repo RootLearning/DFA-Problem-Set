@@ -1,5 +1,5 @@
-## 2. Coffee Machine with Four Different Drinks: Tea – 10 Rupees, Coffee – 15 Rupees,
-Green Tea – 20 Rupees, Hot Chocolate – 30 Rupees and input denomination is {5, 10, 20}  
+## 2. Vending Machine with 5 Star: 5 Rupees, 10 Rupees and 20 Rupees Chocolates and
+input denomination is {5, 10, 20}  
 Soluton:  
 **DFA formal representation**   
 DFA=(Q,∑,δ,qo,F)  
